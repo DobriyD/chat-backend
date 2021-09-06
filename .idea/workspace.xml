@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42e4a0da-4ea2-44b0-b75d-ca3b90feb90c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iFCKa4FTs7HPspBYEKONUT4JKd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Skill_Factory/trello" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\JavaScript\React\ReactChat\chat-backend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaScript\React\ReactChat\chat-backend\src\controllers" />
+      <recent name="C:\JavaScript\React\ReactChat\chat-backend\src\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e4a0da-4ea2-44b0-b75d-ca3b90feb90c" name="Default Changelist" comment="" />
+      <created>1601493889818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601493889818</updated>
+      <workItem from="1601493891825" duration="6851000" />
+      <workItem from="1601735429851" duration="8835000" />
+      <workItem from="1602065470863" duration="39663000" />
+      <workItem from="1603107992876" duration="3902000" />
+      <workItem from="1607687948714" duration="640000" />
+      <workItem from="1610465547100" duration="1088000" />
+      <workItem from="1630775060024" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/index.d.js" />
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
+        <option value="$PROJECT_DIR$/../../../Skill_Factory/trello (kanban ver2)/node_modules/wait-for-expect/lib/index.d.js" />
+      </list>
+    </option>
+  </component>
+</project>
